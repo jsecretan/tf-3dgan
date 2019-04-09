@@ -27,7 +27,7 @@ obj        = 'chair'
 
 train_sample_directory = './train_sample/'
 model_directory = './models/'
-is_local = False
+is_local = True 
 
 weights = {}
 
